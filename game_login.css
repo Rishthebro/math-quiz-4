@@ -1,0 +1,29 @@
+body{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+
+#player_1_div {
+text-align: center;
+background-color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 20%;
+padding-right: 20%;
+border-radius: 25%;
+border-color: darkviolet;
+padding-bottom: 10%;
+padding-top: 10%;
+}
+
+#player_2_div {
+    text-align: center;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 25%;
+    border-color: darkviolet;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    }
